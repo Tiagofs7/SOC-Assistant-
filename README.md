@@ -32,7 +32,7 @@ Log → Processamento → Análise → Alerta → Relatório
 #Evolução
 
 - [x] Leitura de logs
-- [ ] Detecção baseada em regras
+- [x] Detecção baseada em regras
 - [ ] Sistema de alertas
 - [ ] Banco de dados
 - [ ] API com Spring Boot
